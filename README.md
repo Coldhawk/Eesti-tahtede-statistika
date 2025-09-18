@@ -9,12 +9,4 @@ Andmestikkus filtreerimist ei toimu (näiteks kõik võõrsõnade või nimede/ko
 
 
 Andmestiku viide: Koppel, Kristina; Kallas, Jelena (2022). Eesti keele ühendkorpus 2021. DOI: 10.15155/3-00-0000-0000-0000-08E60L
-
-
-@dataset{siimh_estonian_corpus_2021,
-  author    = {Siim Haugas},
-  title     = {Estonian National Corpus 2021: Tagged and Cleaned Versions},
-  year      = {2023},
-  publisher = {Hugging Face},
-  url       = {https://huggingface.co/datasets/siimh/estonian_corpus_2021}
-}
+https://huggingface.co/datasets/siimh/estonian_corpus_2021
