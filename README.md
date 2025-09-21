@@ -13,7 +13,5 @@ Graafikul on näidatud tähtede sagedused protsentidena.
 
 Edasiseks oleks hea anlüüsida, mis tähed on üksteiste kõrval, et vähendada sõrmede liikumist klaviatuuril. Kuid ma arvan esimeseks lähendiks on lithne tähtede jaotuse leidmine piisav. 
 
-Klaviatuuri paigutuse jaoks kasutan lehekülge keybr.com, kus saab endale kohandada paigutust. Leheküljel on ka võimalus kasutada klaviatuuri kirjutades eestikeelseid sõnu ning selle tulemusena ka saada statistikat kirjutamise kiirusest.
-
 Andmestiku viide: Koppel, Kristina; Kallas, Jelena (2022). Eesti keele ühendkorpus 2021. DOI: 10.15155/3-00-0000-0000-0000-08E60L
 https://huggingface.co/datasets/siimh/estonian_corpus_2021
